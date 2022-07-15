@@ -1,0 +1,7 @@
+{
+	"95盾CDN": ["text:<a href=“www.95dun.net”>95盾</a>"],
+	"FunCDN": ["header:FunCDN/"],
+	"京东云CDN": ["text:京东云星盾"],
+	"cloudflareCDN": ["text:Cloudflare"],
+	"上海云盾": ["text:host_not_found_error"]
+}
